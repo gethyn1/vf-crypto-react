@@ -1,6 +1,6 @@
 # VF Crypto
 
-Single page React application for Virtual Forge.
+Single page React application for Virtual Forge. View the application online at [https://nostalgic-albattani-90e207.netlify.app/](https://nostalgic-albattani-90e207.netlify.app/)
 
 ## Running the application
 
@@ -12,6 +12,7 @@ To run the application locally using Parcel's development server:
 
 - Run `npm install` to install application dependencies
 - Run `npm run start:dev` to run the application in development mode
+- The application will be running on `http://localhost:8080`
 
 ### Build the application
 
